@@ -1,2 +1,5 @@
 *.egg-info
 dist
+*.avi
+screencast o-matic log-in.txt
+Temp/
