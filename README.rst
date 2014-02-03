@@ -2,6 +2,9 @@
 EEA Screencasts
 ===============
 
+The screencasts are divided in two playlists which can be viewed on YouTube: Basic_ and Advanced_.
+
+
 About
 =====
 
@@ -9,6 +12,7 @@ This pacakge will be the placeholder for the screencasts produced for the EEA ad
 It will contain both sources and the resulted movie to ease later modifications.
 
 The screencasts were produced using Screencast-O-Matic_.
+
 
 Copyright and license
 =====================
@@ -31,3 +35,5 @@ EEA_ - European Environment Agency (EU)
 
 .. _Screencast-O-Matic: http://www.screencast-o-matic.com/
 .. _EEA: http://www.eea.europa.eu/
+.. _Basic: http://www.youtube.com/playlist?list=PLVPSQz7ahsByeq8nVKC7TT9apArEXBrV0
+.. _Advanced: http://www.youtube.com/playlist?list=PLVPSQz7ahsBxbe8pwzFWLQuvDSP9JFn8I
