@@ -2,8 +2,6 @@
 EEA Screencasts
 ===============
 
-The screencasts are divided in two playlists which can be viewed on YouTube: Basic_ and Advanced_.
-
 
 About
 =====
@@ -35,5 +33,3 @@ EEA_ - European Environment Agency (EU)
 
 .. _Screencast-O-Matic: http://www.screencast-o-matic.com/
 .. _EEA: http://www.eea.europa.eu/
-.. _Basic: http://www.youtube.com/playlist?list=PLVPSQz7ahsByeq8nVKC7TT9apArEXBrV0
-.. _Advanced: http://www.youtube.com/playlist?list=PLVPSQz7ahsBxbe8pwzFWLQuvDSP9JFn8I
