@@ -1,6 +1,7 @@
 *.egg-info
 dist
 *.avi
+*.mp4
 screencast o-matic log-in.txt
 ScreencastOMaticLocation/
 Temp/

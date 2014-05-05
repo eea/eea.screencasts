@@ -1,0 +1,86 @@
+%!Adobe-FontList 1.14
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:LiberationMono-Bold
+FamilyName:Liberation Mono
+StyleName:Bold
+FullName:Liberation Mono Bold
+MenuName:Liberation Mono
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:e:\work\EEA\eea.screencasts\sources\eea-daviz\Presentation\Font\LiberationMono-Bold.ttf
+DataFormat:sfntData
+FileLength:61276
+FileModTime:1370347664
+WeightClass:700
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:LiberationMono-BoldItalic
+FamilyName:Liberation Mono
+StyleName:Bold Italic
+FullName:Liberation Mono Bold Italic
+MenuName:Liberation Mono
+StyleBits:3
+WritingScript:Roman
+OutlineFileName:e:\work\EEA\eea.screencasts\sources\eea-daviz\Presentation\Font\LiberationMono-BoldItalic.ttf
+DataFormat:sfntData
+FileLength:65268
+FileModTime:1370347666
+WeightClass:700
+WidthClass:5
+AngleClass:1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:LiberationMono-Italic
+FamilyName:Liberation Mono
+StyleName:Italic
+FullName:Liberation Mono Italic
+MenuName:Liberation Mono
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:e:\work\EEA\eea.screencasts\sources\eea-daviz\Presentation\Font\LiberationMono-Italic.ttf
+DataFormat:sfntData
+FileLength:65168
+FileModTime:1370347664
+WeightClass:400
+WidthClass:5
+AngleClass:1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:LiberationMono
+FamilyName:Liberation Mono
+StyleName:Regular
+FullName:Liberation Mono
+MenuName:Liberation Mono
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:e:\work\EEA\eea.screencasts\sources\eea-daviz\Presentation\Font\LiberationMono-Regular.ttf
+DataFormat:sfntData
+FileLength:61144
+FileModTime:1370347664
+WeightClass:400
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:e:\work\EEA\eea.screencasts\sources\eea-daviz\Presentation\Font\Red Hat Liberation License.txt
+FileModTime:1395028050
+%EndFont
+
