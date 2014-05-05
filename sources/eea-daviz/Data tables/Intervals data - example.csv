@@ -1,0 +1,9 @@
+name:text, value1, lower limit for value1, higher limit for value1, value2, lower limit for value2, higher limit for value2
+a, 100, 90, 110, 96, 85, 104
+b, 120, 95, 130, 113, 90, 124
+c, 130, 105, 140, 117, 100, 133
+d, 90, 85, 95, 88, 85, 92
+e, 70, 74, 63, 69, 67, 70
+f, 30, 39, 22, 28, 21, 34
+g, 80, 77, 83, 77, 70, 85
+h, 100, 90, 110, 95, 85, 102
